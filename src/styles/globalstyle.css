@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  min-height: 100%;
+}
+
+body {
+  background: #F2F2F2;
+  -webkit-font-smoothing: antialiased !important;
+  color: #3E3E3E;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif
+}
+
+button {
+  cursor: pointer;
+}
+
+#app header {
+  background: #4267B2;
+  height: 50px;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#app header .box-one {
+  display: flex;
+  align-items: center;
+}
+
+#app header .box-one input {
+  margin-left: 1px;
+  border: 1px solid #3b5998;
+  height: 30px;
+  width: 220px;
+  padding: 0 30px 0 12px;
+  border-radius: 3px;
+  font-size: 12px;
+  /* background: #fff url("/src/assets/search.svg") no-repeat 190px center; */
+}
+
+#app header .box-one input::placeholder {
+  font-size: 13px;
+}
+
+#app header .box-one img {
+  border-right: 1px solid #3b5998;
+  padding-right: 8px;
+  margin-right: 10px;
+  height: 24px;
+  width: 121px;
+}
+
+#app header .box-two {
+  display: flex;
+  align-items: center;
+}
+
+#app header .box-two img {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  margin-right: 8px;
+}
+
+#app header .box-two strong:last-child {
+  border-left: 1px solid #3b5998;
+  padding-left: 10px;
+}
+
+#app header .box-two strong {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  color: #fff;
+}
+
+#app .postList {
+  width: 725px;
+  height: 978px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#app .postItem {
+  width: 700px;
+  max-height: 100%;
+  background: #FFFFFF;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #DDDFE2;
+}
+
+#app .postItem .bar-options {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#app .postItem img {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
+
+#app .postItem .content {
+  margin-top: 15px;
+}
+
+#app .postItem .title {
+  color: #385898;
+  display: flex;
+  align-items: center;
+}
+
+#app .postItem .title-comment {
+  color: #385898;
+  margin-right: 3px;
+}
+
+#app .postItem strong {
+  color: #606770;
+}
+
+#app .postItem .box-content-profile {
+  display: flex;
+  align-items: center;
+}
+
+#app .postItem .box-content-profile .box-profile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+#app .postItem .box-all-comments {
+  display: flex;
+  margin-top: 15px;
+  flex-direction: column;
+}
+
+#app .postItem .box-all-comments .box-comment:first-child {
+  margin: 0;
+}
+
+#app .postItem .box-all-comments .box-comment {
+  display: flex;
+  margin-top: 15px;
+  align-items: flex-start;
+}
+
+#app .postItem .box-all-comments .box-comment .comment {
+  background: #F2F3F5;
+  border-radius: 18px;
+  margin-left: 5px;
+  padding: 10px;
+}
+
+#app .postItem .bar-options {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+#app .postItem .bar-options ul {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid#EEEEEE;
+  border-bottom: 1px solid#EEEEEE;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  list-style: none;
+  justify-content: space-around;
+}
+
+#app .postItem .bar-options ul li {
+  display: flex;
+  align-items: center;
+}
+
+#app .postItem .bar-options ul strong {
+  margin-left: 2px;
+}
+
+#app .postItem .bar-options .bar-informations .informations {
+  display: flex;
+}
+
+#app .postItem .bar-options .bar-informations .informations p {
+  margin-left: 6px;
+  color: #606770;
+}
+
+#app .postItem .bar-options .bar-informations .like  {
+ display:flex;
+ align-items: center;
+}
+
+#app .postItem .bar-options .bar-informations .like .like-circle {
+  height: 22px;
+  width: 22px;
+  background: #39A4FD;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+}
+
+#app .postItem .bar-options .bar-informations .like p {
+  margin-left: 5px;
+  color:#606770;
+}
+
+#app .postItem .bar-options .bar-informations {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 100%;
+}
