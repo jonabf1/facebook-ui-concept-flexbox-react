@@ -4,16 +4,17 @@
 - $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
 - Vá para a pasta do repositorio
 - yarn install (instalar todas as dependências)
-- yarn start (iniciar a aplicação)
+- webpack --mode development (gerar o build)
+- webpack-dev-server --mode development (iniciar a aplicação)
 
 #### Dependência usadas
-- axios
+- @babel/plugin-proposal-class-properties
+- css-loader
+- prop-types
 - react
-- dotEnv
-- react-router-dom
+- react-dom
 - react-icons
-- socket.io
-- socket.io-client
+- style-loader
 - styled-components
     
 #### 4. Resultado final
