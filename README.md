@@ -7,7 +7,7 @@
 - webpack --mode development (gerar o build)
 - webpack-dev-server --mode development (iniciar a aplicação)
 
-#### :rocket: Dependência usadas
+### :rocket: Dependência usadas
 - @babel/plugin-proposal-class-properties
 - css-loader
 - prop-types
