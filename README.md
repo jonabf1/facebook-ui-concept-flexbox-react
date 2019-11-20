@@ -3,17 +3,16 @@
 <h1 style="text-align:"center";">Facebook-Flexbox-React</h1>
 
 ### Como instalar
-# Clonar esse repositório
+#### :rocket: Clonar esse repositório
 $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
 
-# Vá para a pasta do repositorio
+#### :rocket: Vá para a pasta do repositorio
 
-# Instalar dependências
-$ yarn install
+#### :rocket: Instalar dependências
+$ yarn install 
 
-# Abrir o app
-$ yarn start 
-
+#### :rocket: Abrir o app
+- yarn install 
 
 
 ![Alt Text](src/assets/facebook.gif)
