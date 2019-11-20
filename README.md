@@ -4,7 +4,7 @@
 #### :rocket: Clonar esse repositório
 - $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
 
-#### :rocket: Vá para a pasta do repositorio
+#### Vá para a pasta do repositorio
 
 #### :rocket: Instalar dependências
 - $ yarn install 
