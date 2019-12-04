@@ -24,9 +24,12 @@
     
 ### :rocket: 4. Resultado final
 
-![Alt Text](src/assets/facebook.gif)
+<p align="center">
+<img src="src/assets/facebook.gif"/>
+</p>
 
----
+<hr/>
 
-Made with ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
-
+<p align="center">
+Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
