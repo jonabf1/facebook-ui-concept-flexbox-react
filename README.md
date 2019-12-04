@@ -22,7 +22,7 @@
 - style-loader
 - styled-components
     
-#### 4. Resultado final
+### :rocket: 4. Resultado final
 
 ![Alt Text](src/assets/facebook.gif)
 
