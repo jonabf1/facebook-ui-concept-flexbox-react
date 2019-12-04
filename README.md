@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="src/assets/logo.png" width="200px" style="border:1px solid #000;"/>
+<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-1.png" width="200px"/>
 </h1>
 
 ### :rocket: Sobre
