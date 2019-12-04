@@ -1,4 +1,9 @@
-<h1 style="text-align:"center";">Facebook-Flexbox-React</h1>
+<h1 align="center">
+<img src="frontend/src/assets/logo.svg" width="200px"/>
+</h1>
+
+### :rocket: Sobre
+É um clone do Facebook criado em React, sem funcionalidades a mais
 
 ### :rocket: Como instalar
 - $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
