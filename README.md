@@ -2,17 +2,17 @@
 <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-1.png" width="200px"/>
 </h1>
 
-### :rocket: Sobre
+### :rocket: About
 It's a Facebook clone created in React, without any more features.
 
-### :rocket: Como instalar
+### :rocket: How install
 - $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
 - Go to repository folder
 - yarn install (install all dependencies)
 - webpack --mode development (generate the build)
 - webpack-dev-server --mode development (start app web)
 
-### :rocket: Dependência usadas
+### :rocket: Dependency used
 - @babel/plugin-proposal-class-properties
 - css-loader
 - prop-types
@@ -22,7 +22,7 @@ It's a Facebook clone created in React, without any more features.
 - style-loader
 - styled-components
     
-### :rocket: 4. Resultado final
+### :rocket: 4. Final result
 
 <p align="center">
 <img src="src/assets/facebook.gif"/>
