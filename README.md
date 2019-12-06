@@ -8,7 +8,7 @@ It's a Facebook clone created in React, without any more features.
 ### :rocket: Como instalar
 - $ git clone https://github.com/jonabf1/facebook-ui-concept-flexbox-react
 - Go to repository folder
-- yarn install (instalar all dependencies)
+- yarn install (install all dependencies)
 - webpack --mode development (generate the build)
 - webpack-dev-server --mode development (start app web)
 
